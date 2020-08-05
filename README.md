@@ -19,7 +19,7 @@ Vcc +5v	        7                 |
 *******************************************************************************/
 
 ```
-For A/V connetion use the following, base on https://github.com/rossumur/esp_8_bit/blob/master/src/video_out.h driver, thanks for rossmur for this piece of code
+For A/V connetion use the following, base on https://github.com/rossumur/esp_8_bit/blob/master/src/video_out.h driver, thanks for rossumur for this piece of code
 
 ```
     -----------
