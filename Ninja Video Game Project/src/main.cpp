@@ -149,7 +149,7 @@ void setup() {
 
   Serial.begin(115200);
   
-   rtc_clk_cpu_freq_set(RTC_CPU_FREQ_240M);              //highest cpu frequency
+   setCpuFrequencyMhz(240);                //highest cpu frequency
    init_screen(); 
     for (int x = 0; x < 256; x++)
     {    
